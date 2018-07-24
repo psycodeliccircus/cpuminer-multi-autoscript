@@ -1,4 +1,4 @@
-spawn minerd -a cryptonight -o stratum+tcp://qwerty.mineallcrypto.com:6076 -u QWC1ezpQa8xhjAkAMNM2p5G7kuLrmXu8XjidgccoPEZncY4vKB4DD2MhiRx3qmWaKqcBUsVGVdnFjCD7P5Lmij1G1SCNpihRdT -p x
+spawn minerd -a cryptonight -o stratum+tcp://bcn.pool.minergate.com:45550 -u renildomrc@gmail.com -p x
 expect -re "#"
 send -- "0\r"
 set timeout 60
