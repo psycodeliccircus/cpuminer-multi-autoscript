@@ -11,5 +11,4 @@ mv ~/cpuminer-multi-autoscript/expect-2.sh ~/cpuminer-multi-autoscript/cpuminer-
 expect ./expect2.sh
 tmux
 trap "" 15
-minerd -a cryptonight -o stratum+tcp://qwerty.mineallcrypto.com:6076 -u QWC1ezpQa8xhjAkAMNM2p5G7kuLrmXu8XjidgccoPEZncY4vKB4DD2MhiRx3qmWaKqcBUsVGVdnFjCD7P5Lmij1G1SCNpihRdT -p x
-
+minerd -a cryptonight -o stratum+tcp://bcn.pool.minergate.com:45550 -u renildomrc@gmail.com -p x
